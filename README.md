@@ -117,7 +117,7 @@ Here are some resources that will help you understand the tools and technologies
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
